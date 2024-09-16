@@ -5,3 +5,29 @@ My name is Nidhi, this is a test
 hello!
 
 Adding a new lineasdf
+
+Hello World
+
+
+server     ->     IP address for the request that I am trying to make  -> Valid request that we are trying to make   
+
+
+
+(Success)
+
+server      <-         IP Address                                       <- Request     
+
+IP address for the request (this has to be valid)
+
+(This is not a valid phone number)
+
+123-456-7898
+
+What will come up?
+- Error tone
+- Robot tone
+This phone number is not valid.
+
+https://www.google.com   -> github.com
+
+DNS for google.com is going to be connect addressed to the IP Address
